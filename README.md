@@ -34,9 +34,7 @@ python main.py
 
 ## Sample Output
 
-```
 ![output](image.png)
-```
 
 ## Adding More Providers
 
