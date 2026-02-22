@@ -73,3 +73,4 @@ class SlackEventHandler:
 | **Resilience**    | Exponential backoff (`base * 2^n`) capped at 5 min                 |
 | **Portability**   | Cross-platform shutdown (Unix SIGTERM + Windows KeyboardInterrupt) |
 | **Extensibility** | Swap `ConsoleEventHandler` for any output target                   |
+
